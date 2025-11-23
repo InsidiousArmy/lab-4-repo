@@ -25,6 +25,30 @@
         "clover honey"
       ],
       "image" : "peach-mango.svg"
+    },
+    {
+      "name" : "Cosmic Caramel Swirl",
+      "calories" : 450,
+      "type" : "ice cream",
+      "ingredients" : [
+        "salted caramel",
+        "chocolate fudge ribbons",
+        "toasted pecans",
+        "vanilla bean base"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Berry Blast Delight",
+      "calories" : 320,
+      "type" : "sorbet",
+      "ingredients" : [
+        "mixed berry purée",
+        "fresh strawberries",
+        "blueberry chunks",
+        "raspberry swirl"
+      ],
+      "image" : "ice-cream-xtra2.svg"
     }
   ]
 }
